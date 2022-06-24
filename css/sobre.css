@@ -1,0 +1,21 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.sobre{
+    padding: 40px;
+    
+    
+}
+
+.sobre p{
+    text-align: center;
+}
+
+.sobre h1{
+    font-family: 'Work Sans';
+    text-align: center;
+    font-size: 30px;
+}

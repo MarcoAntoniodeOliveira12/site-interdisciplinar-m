@@ -1,0 +1,152 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.fisica h1{
+    font-family: 'Bebas Neue';
+    font-size: 45px;
+    color: #ffff;
+    margin: 5%;
+    padding: 20px;
+    background-color: #240cf7;
+    text-align: center;
+}
+
+.fisica h2{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Bebas Neue';
+    
+
+}
+
+.fisica h3{
+    margin: 5%;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Work Sans';
+    margin-top: 0%;
+
+}
+
+.fisica h4{
+    margin: 5%;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Work Sans';
+    margin-top: 0%;
+
+}
+
+.fisica h5{
+    margin: 5%;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Work Sans';
+    margin-top: 0%;
+}
+
+.fisica h6{
+    text-align: center;
+    margin-top: 0%;
+}
+
+.fisi h1{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Bebas Neue';
+    margin-top: 2%;
+}
+
+.fisi h2{
+    margin: 5%;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Work Sans';
+    margin-top: 0%;
+}
+
+.fisi h3{
+    margin: 5%;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Work Sans';
+    margin-top: 0%;
+ 
+}
+
+.fisi{
+    text-align: center;
+    margin-top: 0%; 
+}
+
+.fisica1 h1{
+    font-family: 'Bebas Neue';
+    font-size: 45px;
+    color: #ffff;
+    margin: 5%;
+    padding: 20px;
+    background-color: #240cf7;
+    text-align: center;
+}
+
+.fisica1 h2{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Bebas Neue';
+    margin-top: 2%;
+}
+
+.fisica1 h3{
+    margin: 5%;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Work Sans';
+    margin-top: 0%;
+}
+
+.fisica1 h4{
+    text-align: center;
+    
+}
+
+.fis h1{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Bebas Neue';
+    margin-top: 2%;
+
+}
+
+.fis h2{
+    margin: 5%;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Work Sans';
+    margin-top: 0%;
+}
+
+.fis h3{
+    text-align: center;
+}
+
+.fis h4{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Bebas Neue';
+    margin-top: 2%;
+}
+
+.fis h5{
+    margin: 5%;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Work Sans';
+    margin-top: 0%;
+}
+
+.fisica h5{
+    text-align: center;
+}

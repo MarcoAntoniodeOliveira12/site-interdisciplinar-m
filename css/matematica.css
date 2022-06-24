@@ -1,0 +1,85 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.matematica h1{
+    font-family: 'Bebas Neue';
+    font-size: 45px;
+    color: #ffff;
+    margin: 5%;
+    padding: 20px;
+    background-color: #240cf7;
+    text-align: center;
+}
+
+.matematica h2{
+    font-family: 'Bebas Neue';
+    font-size: 30px;
+    text-align: center;
+    margin-top: 3%;
+}
+
+.matematica h3{
+    text-align: left;
+    font-family: 'Work Sans';
+    font-size: 30px;
+    margin: 5%;
+    margin-top: 0%;
+}
+
+.matematica h4{
+    text-align: center;
+    margin-top: 5%;
+}
+
+.matematica h5{
+    font-family: 'Bebas Neue';
+    font-size: 30px;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.matematica h6{
+    font-family: 'Work Sans';
+    font-size: 30px;
+    margin: 5%;
+    margin-top: 0%;
+}
+
+.matematica li a{
+    text-decoration: none;
+    color: rgba(4, 0, 255, 0.904);
+
+}
+
+
+.mate h1{
+    font-family: 'Bebas Neue';
+    font-size: 45px;
+    color: #ffff;
+    margin: 5%;
+    padding: 20px;
+    background-color: #240cf7;
+    text-align: center;
+}
+
+.mate h2{
+    font-family: 'Bebas Neue';
+    font-size: 30px;
+    text-align: center;
+    margin-top: 3%;
+}
+
+.mate h3{
+    text-align: left;
+    font-family: 'Work Sans';
+    font-size: 30px;
+    margin: 5%;
+    margin-top: 0%;
+}
+
+.mate h4{
+    text-align: center;
+}

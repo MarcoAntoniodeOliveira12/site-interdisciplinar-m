@@ -1,0 +1,56 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.quimica h1{
+    font-family: 'Bebas Neue';
+    font-size: 45px;
+    color: #ffff;
+    margin: 5%;
+    padding: 20px;
+    background-color: #240cf7;
+    text-align: center;
+}
+
+.quimica p{
+    margin-left: 5%;
+}
+
+.qui h2{
+    font-family: 'Work Sans';
+    text-align: center;
+    font-size: 30px;
+}
+
+.quimi h1{
+    font-family: 'Bebas Neue';
+    font-size: 45px;
+    color: #ffff;
+    margin: 5%;
+    padding: 20px;
+    background-color: #240cf7;
+    text-align: center; 
+}
+
+.quimi h2{
+    font-family: 'Bebas Neue';
+    font-size: 30px;
+    text-align: center;
+}
+
+.quimi h3{
+    font-family: 'Work Sans';
+    font-size: 30px;
+    margin: 5%;
+    margin-top: 0%;
+    
+}
+
+.img{
+    position: absolute;
+    right: 2%;
+    top: 240%;
+    margin: 5%;
+}
